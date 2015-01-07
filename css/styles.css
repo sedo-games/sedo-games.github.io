@@ -1,0 +1,101 @@
+/*reset*/
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section { 
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+/* styles*/
+body {
+    font-family: 'Scada', sans-serif;
+    color: #727272;
+    font-size: 14px;
+    position: relative;
+    background: url(../img/bg.png);
+}
+
+.body-wrapper{
+    width: 100%;
+    min-width: 300px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/*header*/
+header{
+    height: 55px;
+    padding: 15px 0 0 0;
+}
+header nav{
+    margin-right: 10px;
+}
+
+.menu-wrapper{
+    float: right;
+}
+.menu-icon{
+    width: 70px;
+    height: 51px;
+    float: left;
+    background: url(../img/sprite.png) no-repeat 0px 0px ;
+}
+.menu-end{
+    width: 10px;
+    height: 51px;
+    float: left;
+    background: url(../img/sprite.png) no-repeat -72px 0px ;
+}
+.menu-items{
+    height: 51px;
+    float: left;
+    padding: 0 5px;
+    background: url(../img/sprite-bg.png) repeat-x 0px 0px ;
+}
+
+/*slider*/
+#section-slider{
+    position: relative;
+}
+
+/*footer*/
+footer{
+    line-height: 50px;
+    text-align: center;
+}
+.footer-logo{
+    float: left;    
+}
+.footer-logo img{
+    height: 50px;
+}
+.footer-logo a{
+    padding: 0 10px;
+}

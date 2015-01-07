@@ -1,0 +1,1 @@
+var GameModel = Backbone.Model.extend({});
