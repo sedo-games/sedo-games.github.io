@@ -99,3 +99,18 @@ footer{
 .footer-logo a{
     padding: 0 10px;
 }
+
+/* privacy policy */
+#privacy-policy
+{
+    padding:50px;
+    max-width: 1000px;
+    margin:0 auto;
+    line-height: 1.25em;
+}
+#privacy-policy ul {
+    padding:5px 20px 5px 20px;
+}
+#privacy-policy p {
+    padding:10px;
+}

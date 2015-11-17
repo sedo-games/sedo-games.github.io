@@ -3,7 +3,8 @@ var AppRouter = Backbone.Router.extend({
 
     routes: {
         "": "home",
-        "game/:id": "gameDetails"
+        "game/:id": "gameDetails",
+        "privacy-policy":"privacyPolicy"
     },
 
     //    list:function () {
@@ -21,7 +22,12 @@ var AppRouter = Backbone.Router.extend({
         //   this.wine = this.wineList.get(id);
         //    this.wineView = new WineView({model:this.wine});
         //    $('#content').html(this.wineView.render().el);
+    },
+    privacyPolicy : function(){
+        var header = new HeaderView();
+        var privacyPolicy = new PrivacyPolicyView();
     }
+    
 });
 
 
