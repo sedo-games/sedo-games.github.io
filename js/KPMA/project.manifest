@@ -18,4 +18,5 @@
            		"group" : "1"
         	}		
 	},
+	"searchPaths" : ["res/"]
 }
