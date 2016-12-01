@@ -1,0 +1,21 @@
+{
+    "packageUrl" : "http://sedogames.com/js/KPMA/",
+	"remoteManifestUrl" : "http://sedogames.com/js/KPMA/project.manifest",
+	"remoteVersionUrl" : "http://sedogames.com/js/KPMA/version.manifest",
+	"version" : "1.0.0",
+	"engineVersion" : "cocos2d-x-3.8.1",
+	"groupVersions" : 
+	{
+		"1" : "1.0.0"
+    	},
+	"assets" : 
+	{
+		"update100" : 
+		{
+            		"path" : "src/HandleBackground.zip",
+           		"md5" : "3c635894bc2ed24d7c1f27887a2ff286",
+           		"compressed" : true,
+           		"group" : "1"
+        	}		
+	},
+}
