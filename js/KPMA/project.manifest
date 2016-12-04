@@ -10,12 +10,13 @@
     	},
 	"assets" : 
 	{
-		"update110" : 
+		"update1101" : 
 		{
-            		"path" : "src/amConfig.js",
-           		"md5" : "3c635894bc2ed24d7c1f27887a2ff286",           		
+            		"path" : "src/amConfig.zip",                    
+           		"md5" : "2f4f488c47dc99a8a08db5f3a66a2edc",         
+                "compressed" : true,
            		"group" : "1"
         	}		
 	},
-	"searchPaths" : ["res/"]
+	"searchPaths" : []
 }
