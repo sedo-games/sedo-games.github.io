@@ -18,5 +18,5 @@
            		"group" : "1"
         	}		
 	},
-	"searchPaths" : []
+	"searchPaths" : ["res/"]
 }
