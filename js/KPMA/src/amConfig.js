@@ -1,2 +1,2 @@
-var kidozPanelEnabled = true;
+var kidozPanelEnabled = false;
 console.log('kidoz panel' + kidozPanelEnabled);
