@@ -6,9 +6,9 @@
 	"engineVersion" : "cocos2d-x-3.8.1",
 	"assets" : 
 	{		
-            	"src/amConfig.js":{                  
-                    "md5" : "c5c43ad40713f857cb7a4825df8ea33f",         
-                    "compressed" : false
+            	"src/amConfig.zip":{                  
+                    "md5" : "f717ca3644f8b6d8f20fe3f8cf74d0ff",         
+                    "compressed" : true
                 }
         		
 	},
