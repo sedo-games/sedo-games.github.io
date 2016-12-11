@@ -1,7 +1,7 @@
 {
     "kidozPanelEnabled" : false,
     "kidozInterstitialEnabled": false,
-    "ChartboostFullScreenEnabled": false,
+    "ChartboostFullScreenEnabled": true,
     "AdCashInterstitialEnabled": false,
-    "RevMobVideoEnabled": true
+    "RevMobVideoEnabled": false
 }
