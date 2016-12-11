@@ -1,0 +1,4 @@
+{
+    "kidozPanelEnabled" : true,
+    "kidozInterstitialEnabled": true    
+}
