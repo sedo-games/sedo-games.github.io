@@ -4,5 +4,5 @@
     "ChartboostFullScreenEnabled": false,
     "AdCashInterstitialEnabled": false,
     "RevMobVideoEnabled": false,
-    "RateStarEnabled": true,    
+    "RateStarEnabled": true    
 }
