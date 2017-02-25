@@ -3,5 +3,6 @@
     "kidozInterstitialEnabled": true,
     "ChartboostFullScreenEnabled": false,
     "AdCashInterstitialEnabled": false,
-    "RevMobVideoEnabled": false
+    "RevMobVideoEnabled": false,
+    "RateStarEnabled": true,    
 }
