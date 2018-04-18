@@ -2,8 +2,8 @@
     "kidozPanelEnabled" : true,
     "kidozInterstitialEnabled": true,
         
-    "kidozFlexiPointEnabled": false,
-    "kidozFlexiPointToPanelEnabled": true,
+    "kidozFlexiPointEnabled": true,
+    "kidozFlexiPointToPanelEnabled": false,
         
     "ChartboostFullScreenEnabled": false,
     "AdCashInterstitialEnabled": false,
