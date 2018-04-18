@@ -1,8 +1,10 @@
 {
     "kidozPanelEnabled" : true,
     "kidozInterstitialEnabled": true,
-    "kidozFlexiPointEnabled": true,
-    "kidozFlexiPointToPanelEnabled": false,
+        
+    "kidozFlexiPointEnabled": false,
+    "kidozFlexiPointToPanelEnabled": true,
+        
     "ChartboostFullScreenEnabled": false,
     "AdCashInterstitialEnabled": false,
     "RevMobVideoEnabled": false,
