@@ -1,6 +1,6 @@
 {
     "kidozPanelEnabled" : true,
-    "kidozInterstitialEnabled": true,
+    "kidozInterstitialEnabled": false,
     
     "ChartboostFullScreenEnabled": true,
         
