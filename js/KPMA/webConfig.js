@@ -2,7 +2,8 @@
     "kidozPanelEnabled" : true,
     "kidozInterstitialEnabled": true,
     
-    "ChartboostFullScreenEnabled": false,
+    "ChartboostFullScreenEnabled": true,
+        
     "AdCashInterstitialEnabled": false,
     "RevMobVideoEnabled": false,
     "RateStarEnabled": true    
