@@ -1,5 +1,6 @@
 {
     "kidozPanelEnabled" : false,
+        
     "kidozInterstitialEnabled": false,
         
     "kidozFlexiPointEnabled": true,
